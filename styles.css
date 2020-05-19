@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    display: inline;
+    padding: 5px;
+}
+
+.my-blog {
+    padding: 5px;
+}
+
+.login {
+    display: inline;
+    float: right;
+    padding: 5px;
+}
+
+.post {
+    border: 1px solid black;
+    position: relative;
+    margin: 10px;
+    float: left;
+    width: 75%;
+}
+
+.img {
+    position: absolute;
+    top: 3px;
+    right: 3px;
+    float: right;
+    width: 25%;
+}
+
+.blog-head {
+    margin: 0px;
+    padding: 2px;
+}
+
+.paragraph {
+    margin: 0px;
+    padding: 5px 0px 100px 2px;
+    text-overflow: ellipsis;
+}
+
+.post-foot {
+    position: absolute;
+    bottom: 3px;
+    left: 2px;
+}
+
+.latest-post {
+    padding: 10px;
+}
+.popular-post {
+    padding: 10px;
+}
+
